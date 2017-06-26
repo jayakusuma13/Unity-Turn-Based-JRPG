@@ -18,3 +18,6 @@ For more details you can check out the screenshots that i took.
 ![Alt text](https://github.com/kumakuma13/Unity-Turn-Based-JRPG/blob/master/4.jpg)
 ![Alt text](https://github.com/kumakuma13/Unity-Turn-Based-JRPG/blob/master/5.jpg)
 ![Alt text](https://github.com/kumakuma13/Unity-Turn-Based-JRPG/blob/master/6.jpg)
+![Alt text](https://github.com/kumakuma13/Unity-Turn-Based-JRPG/blob/master/7.jpg)
+![Alt text](https://github.com/kumakuma13/Unity-Turn-Based-JRPG/blob/master/8.jpg)
+
